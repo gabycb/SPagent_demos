@@ -2,7 +2,7 @@
 
 ## 1. Access the Foundry Portal
 1. Open your web browser.
-2. Navigate to the Foundry Portal URL https://ai.azure.com/[https://ai.azure.com/].
+2. Navigate to the Foundry Portal URL https://ai.azure.com/.
 3. Log in with your corporate credentials.
 4. Once logged in, use the search bar or navigation panel to locate your project.
 
@@ -24,7 +24,7 @@
 1. Open **Visual Studio Code**.
 2. Press **Ctrl+Shift+P** (Windows/Linux) or **Cmd+Shift+P** (Mac) to open the command palette.
 3. Type `Git: Clone` and select **Git: Clone**.
-4. Paste the GitHub repository URL for this repo: https://github.com/gabycb/SPagent_demos.git[https://github.com/gabycb/SPagent_demos.git]. 
+4. Paste the GitHub repository URL for this repo: https://github.com/gabycb/SPagent_demos.git. 
 5. Select a folder on your machine where the repo will be cloned.
 6. When prompted, choose **Open Repository** to open it directly in VS Code.
 7. If authentication is required for GitHub, sign in when prompted.
