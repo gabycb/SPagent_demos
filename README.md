@@ -19,6 +19,7 @@ Before running these demos, ensure you have:
 - Azure credentials configured on your machine
 
 ## Setup Instructions
+For a full set-up guide, see the folder **setup** in this repo that has step by step instructions.
 
 ### 1. Clone the Repository
 ```bash
@@ -54,9 +55,6 @@ pip install -r requirements.txt
    PROJECT_ENDPOINT=https://your-project-endpoint.cognitiveservices.azure.com/
    MODEL_DEPLOYMENT_NAME=your-model-deployment-name
    ```
-
-   - `PROJECT_ENDPOINT`: Your Azure AI Foundry project endpoint URL
-   - `MODEL_DEPLOYMENT_NAME`: The name of your deployed model
 
 ### 5. Authentication
 
